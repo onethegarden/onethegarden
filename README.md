@@ -9,9 +9,6 @@
 </br>
 </br>
 
-### Contributions Calendar
-<img src="https://user-images.githubusercontent.com/51187540/110261752-bd52cc80-7ff4-11eb-8043-8950ca0a3888.PNG" width="490px"/>
-
 <!--
 **onethegarden/onethegarden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
